@@ -2,7 +2,7 @@
 
 /*
 
-A SIMPLE TIC-TAC-TOE GAME IN JAVASCRIPT
+IM MAKING A SIMPLE TIC-TAC-TOE GAME IN JAVASCRIPT
 
 (1) Grid layout
 
@@ -112,9 +112,7 @@ var moves = 0,
     difficulty = 1,
     myGrid = null;
 
-//==================================
-// GRID OBJECT
-//==================================
+
 
 // Grid constructor
 //=================
